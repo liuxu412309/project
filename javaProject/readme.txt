@@ -1,1 +1,1 @@
-这个文件夹放java后端项目
+这个文件夹放java后端项目，spring+springmvc+mybatis搭建
